@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/bunesh-athankar-3b3ba6206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunesh-athankar-3b3ba6206" height="30" width="40" /></a>
 <a href="https://kaggle.com/buneshathankar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="buneshathankar25" height="30" width="40" /></a>
 <a href="https://huggingface.co/Bhuvi-ai" target="_blank">
-<img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Bhuvi-ai" height="30" width="30" />
+<img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Bhuvi-ai" height="40" width="40" />
   </a>
 </p>
 
