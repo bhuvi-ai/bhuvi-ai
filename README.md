@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **buneshathankar25@gmail.com**
 
-- ⚡ Fun fact **I am a Final Year Student 😁**
+- ⚡ Fun fact **I am a Engineer😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
