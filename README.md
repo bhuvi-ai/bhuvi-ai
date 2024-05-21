@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi-ai&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi-ai" /> </p>
 
-- 🔭 I’m currently working on **OCR Project**
+- 🔭 I’m interested in Artificial Intelligence ,Machine Learning and Deep Learning.
 
-- 🌱 I’m currently learning **Pytorch,AWS and Conversional AI**
+- 🌱 I’m currently learning **Pytorch,AWS**
 
-- 👯 I’m looking to collaborate on **Generative AI**
+- 👯 I’m looking to collaborate on **Computer Vision**
 
 - 💬 Ask me about **Machine Learning , Deep Learning , Natural Language Processing**
 
