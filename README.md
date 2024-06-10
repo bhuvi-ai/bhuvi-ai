@@ -23,6 +23,8 @@
 <img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Bhuvi-ai" height="40" width="40" />
   </a>
 </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
@@ -104,7 +106,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvi-ai&show_icons=true&locale=en&layout=compact" alt="bhuvi-ai" /></p>
