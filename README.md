@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bunesh Athankar</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi-ai&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi-ai" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Pytorch,AWS**
 
-- 👯 I’m looking to collaborate on **Computer Vision**
+- 👯 I’m looking to collaborate on **Computer Vision and LLM**
 
-- 💬 Ask me about **Machine Learning , Deep Learning , Natural Language Processing**
+- 💬 Ask me about **Machine Learning , Deep Learning , Natural Language Processing, LLM, OCR**
 
 - 📫 How to reach me **buneshathankar25@gmail.com**
 
